@@ -1,4 +1,4 @@
-homework = True
-
+homework=True
+brain=""
 while homework == True:
   brain="💣"
